@@ -1,16 +1,9 @@
-# faten_portfolio
+# Flutter Portfolio App
 
-A new Flutter project.
+This is a mobile portfolio application built using **Flutter**.  
+It showcases my projects, skills, and contact information in a clean and modern design.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Features
+- Beautiful and responsive UI
+- Project listings with descriptions and images
+- About me section
